@@ -1,0 +1,25 @@
+/****************global scope***********/
+
+body {
+    /**background-color: #e8e8e8;**/
+    margin: 0;
+    text-align: center;
+}
+
+/***************Local****************/
+#head {
+    background-color: rgb(224, 222, 222);
+    height:  100vh;
+    width: 100vw;
+
+}
+
+.main-image {
+    position: absolute;
+    display: inline-block;
+    block-size: 80%;
+}
+
+.text {
+    float: left;
+}
